@@ -1,14 +1,19 @@
-## Brent Vanderburgh
+## Brent Vanderburgh, PG
 
-Software developer working at the intersection of **California water management and public-sector technology** — building open tools that let resource-constrained agencies do things that used to require a vendor and a budget.
+Geologist, innovator, and software developer in California.
 
-### What I'm building
+I am a Supervising Geologist in the Division of Water Rights at the State Water Resources
+Control Board, where I oversee IT and business-process modernization. I've been coding since
+1993 and have spent 17 years in California state service putting innovative solutions to work
+on water management.
 
-- **[OpenH2O](https://openh2o.com)** — an open-source water accounting platform a California water agency can stand up on a small server. It tracks groundwater extraction, surface-water diversions, and managed aquifer recharge, and generates the state's compliance reports. *(AGPL-3.0)*
-- **[Satellite ET research](https://github.com/Open-H2O/satellite-et-research)** — the accuracy and policy case for measuring consumptive water use with satellite evapotranspiration instead of physical meters. *(CC&#8209;BY&#8209;4.0)*
+### Work
 
-### Focus
-
-Water-resource management, geospatial data infrastructure, and the practical, accountable use of AI in government.
-
-📍 California &nbsp;·&nbsp; [openh2o.com](https://openh2o.com)
+- **CalWATRS.** Directed the UPWARD project, which delivered CalWATRS, the Water Boards'
+  system for water rights reporting.
+- **GEARS.** Designed the geospatial platform for reporting groundwater extraction under the
+  backstop provisions of the Sustainable Groundwater Management Act.
+- **Governor's Innovation Fellow, 2025-2026.** Built prototype AI tools for state services,
+  published at [vanderdev.net](https://vanderdev.net).
+- **[OpenH2O](https://github.com/Open-H2O/openh2o).** A free, open-source application that
+  lets a local water district or groundwater agency manage its own water data.
