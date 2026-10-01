@@ -1,7 +1,5 @@
 ## Brent Vanderburgh, PG
 
-Geologist, innovator, and software developer in California.
-
 I am a Supervising Geologist in the Division of Water Rights at the State Water Resources
 Control Board, where I oversee IT and business-process modernization. I've been coding since
 1993 and have spent 17 years in California state service putting innovative solutions to work
