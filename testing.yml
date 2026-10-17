@@ -1,0 +1,11 @@
+# testing.yml: this repository's place in the testing standard: its tier, its suite, and every
+# path that ships its code with that path's gate and smoke test. A weekly scoreboard reads it.
+version: 1
+tier: 3
+why: the public profile README
+suite:
+  command: none
+  push_ci: none
+  skips: none
+  quarantine: none
+deploy: []
